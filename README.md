@@ -25,7 +25,7 @@
 ### 📫 Connect with Me
 - ✉ Email: rahulpodenla.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rahulpodenla-podenla-  
-- 🌍 Portfolio: rahulprofile001.ccbp.tech  
+- 🌍 Portfolio: rahulpodenla.ccbp.tech  
 
 ---
 
